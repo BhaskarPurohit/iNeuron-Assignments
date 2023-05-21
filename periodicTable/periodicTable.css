@@ -1,9 +1,9 @@
 .red{
-    background-color: red;
+    background-color: lightcoral;
     border: solid black ;
 }
 .yellow{
-    background-color: yellow;
+    background-color: rgb(253, 253, 82);
     border: solid black ;
 }
 .blue{
@@ -15,9 +15,9 @@ table{
     margin-top: 10%;
 }
 body{
-    background-color: lightcoral;
+    /* background-color: lightcoral; */
 }
 .green{
-    background-color: green;
+    background-color: rgb(62, 197, 62);
     border: solid black ;
 }
