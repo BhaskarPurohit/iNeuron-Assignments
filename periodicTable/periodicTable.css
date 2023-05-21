@@ -1,0 +1,23 @@
+.red{
+    background-color: red;
+    border: solid black ;
+}
+.yellow{
+    background-color: yellow;
+    border: solid black ;
+}
+.blue{
+    background-color: lightblue;
+    border: solid black ;
+}
+table{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+body{
+    background-color: lightcoral;
+}
+.green{
+    background-color: green;
+    border: solid black ;
+}
