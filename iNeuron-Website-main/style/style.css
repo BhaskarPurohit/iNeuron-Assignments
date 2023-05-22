@@ -182,22 +182,7 @@ Header
 #menu-btn{
     display: none;
 }
-/* .search-form{
-position: fixed;
-top: 3%;
-right: 10%;
-width: 15rem;
-height: 3rem;
-background: var(--bg-2);
-display: flex;
-justify-content: flex-end;
 
-align-items: center;
-/* overflow: hidden; */
-/* border-radius: 0.5rem;
-box-shadow: var(--box-shadow);
-z-index: 22;
-} */
 .search-form.active{
     right: 9%;
     transition: .2s linear;
@@ -1098,4 +1083,10 @@ footer
 }
 .scroll-top:hover{
     background: var(--heading);
+}
+
+.credits{
+    color: #000000;
+    
+    /* text-decoration: double; */
 }
