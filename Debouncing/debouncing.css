@@ -1,0 +1,21 @@
+//Bhaskar Purohit debouncing example
+
+
+*{
+    background-color: rgb(195, 132, 37);
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    margin-left: 38%;
+    margin-top: 20%;
+    width: 50vh;
+    height: 10vh;
+    border-color: aliceblue;
+    box-shadow: inset;
+    color: white;
+    background-color: white;
+    text-align: center;
+    font-size: x-large;
+}
