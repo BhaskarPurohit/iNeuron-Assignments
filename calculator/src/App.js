@@ -7,6 +7,11 @@ function App() {
   const ops =  ['/','*','+','-','.']
 
   const updateCalc = value =>{
+          if(ops.includes(value) && calc === '' || 
+          ops.includes(value) && ops.includes(calc.slice(-1)))
+          {
+            return
+          }
           setCalc(calc+value)
   }
 
