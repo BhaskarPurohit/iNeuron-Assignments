@@ -14,7 +14,7 @@
 }
 
 body{
-  background-color: var(--light);
+  background-color: #eee;
 }
 
 .App{
@@ -37,8 +37,8 @@ body{
 .display{
   padding: 16px;
   text-align: right;
-  background-color: var(--dark);
-  color: var(--light);
+  background-color: #131a26;
+  color: #eee;
   font-size: 24px;
   font-weight: 300;
 }
@@ -71,7 +71,7 @@ button:hover{
 
 .operators button{
   flex: 1 1 0%;
-  background-color: var(--primary);
+  background-color: #d81e5b;
   font-weight: 700;
 }
 
@@ -83,5 +83,5 @@ button:hover{
 .digits button{
   flex: 1 1 33.333%;
   max-width: 33.333%;
-  background-color: var(--dark);
+  background-color: #131a26;
 }
