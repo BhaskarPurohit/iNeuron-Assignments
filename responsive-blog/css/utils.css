@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Roboto&display=swap');
+
+
 :root{
     --main-bg-color: brown;
 }
@@ -15,5 +19,9 @@
 }
 
 .btn{
+
+}
+
+.form-control{
 
 }
