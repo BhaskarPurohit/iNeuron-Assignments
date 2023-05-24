@@ -4,6 +4,8 @@
 
 :root{
     --main-bg-color: brown;
+    --font1: 'Baloo Bhaina 2', cursive;
+    --font2: 'Roboto', sans-serif;
 }
 
 
@@ -19,9 +21,24 @@
 }
 
 .btn{
+    padding: 0px 20px;
+    padding-top: 3px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-family: var(--font1);
+    cursor: pointer;
+    font-size: 16px;
+    
 
 }
 
-.form-control{
+.form-input{
+    padding: 0px 5px;
+    padding-top: 3px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin: 0 13px;
+    font-family: var(--font1);
 
 }
