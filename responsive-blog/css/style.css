@@ -45,19 +45,24 @@
 .content{
     display: flex;
     height: 395px;
-    background-color: blue;
+    background-color: rgb(216, 216, 252);
 }
 
 .content-left{
     font-family: var(--font1);
     width: 50%;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: center;
+    flex-direction: column;
 }
 
 .content-right img{
     height: 355px;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 0px;
+    margin-top: 12px;
 
 }
 
