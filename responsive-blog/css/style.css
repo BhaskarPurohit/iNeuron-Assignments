@@ -53,14 +53,14 @@
 .content{
     display: flex;
     height: 395px;
-    background-color: rgb(225, 225, 226);
+    /* background-color: rgb(225, 225, 226); */
     padding: 9px;
     margin-top: 32px;
 }
 
 .content-left{
     font-family: var(--font1);
-    width: 50%;
+    /* width: 50%; */
     display: flex;
     /* align-items: center; */
     justify-content: center;
