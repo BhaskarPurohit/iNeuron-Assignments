@@ -46,6 +46,7 @@
     display: flex;
     height: 395px;
     background-color: rgb(216, 216, 252);
+    margin-top: 32px;
 }
 
 .content-left{
