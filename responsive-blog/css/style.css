@@ -84,15 +84,24 @@
 }
 
 .home-articles{
-    height: 50px;
+    height: 350px;
     background-color: rgb(201, 158, 158);
 
 }
 
 .home-article{
+    display: flex;
     
 }
 
+.home-article img{
+    width: 300px;
+}
+
+.home-article-content{
+    align-self: center;
+    padding:  25px;
+}
 
 
 .footer{
