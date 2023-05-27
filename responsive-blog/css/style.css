@@ -15,7 +15,7 @@
 }
 
 .nav-left{
-    font-size: 20px;
+    font-size: 35px;
     display: flex;
 
 }
@@ -30,6 +30,7 @@
     align-items: center;
     margin: 0 77px;
     font-size: 18px;
+    font-weight: bold;
 }
 
 .nav-left ul li a:hover{
@@ -84,13 +85,15 @@
 }
 
 .home-articles{
-    height: 350px;
-    background-color: rgb(201, 158, 158);
+    /* height: 350px; */
+    /* background-color: rgb(201, 158, 158); */
+    padding-top: 12px;
 
 }
 
 .home-article{
     display: flex;
+    padding: 50px;
     
 }
 
