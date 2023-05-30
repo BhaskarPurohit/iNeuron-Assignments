@@ -65,6 +65,13 @@
     /* background-color: rgb(225, 225, 226); */
     padding: 9px;
     margin-top: 32px;
+    background-image: url("../img/461_generated.jpg");
+    position: relative;
+}
+
+.content::after{
+    content: ""
+
 }
 
 .content-left{
