@@ -85,6 +85,7 @@
     /* align-items: center; */
     justify-content: center;
     flex-direction: column;
+    padding: 50px;
 }
 
 .content-right img{
@@ -105,8 +106,9 @@
 
 .home-articles{
     /* height: 350px; */
-    /* background-color: rgb(201, 158, 158); */
+    background-color: rgb(248, 239,239,0.5);
     padding-top: 12px;
+    margin-top: 23px;
 
 }
 
@@ -123,6 +125,11 @@
 .home-article-content{
     align-self: center;
     padding:  25px;
+}
+
+.home-article-content a{
+    text-decoration: none;
+    color: var(--main-bg-color);
 }
 
 
