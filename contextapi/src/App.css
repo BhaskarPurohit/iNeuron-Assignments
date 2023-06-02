@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+.header {
+  padding: 20px;
+}
+
+.light {
+  background-color: #fff;
+  color: #333;
+}
+
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.content {
+  padding: 20px;
+}
