@@ -3,7 +3,7 @@
 
 ---
 
-## Created by Shivam Shukla
+## Created by Bhaskar Purohit
 
 [LIVE](https://ineuron-ai.netlify.app/)
 
